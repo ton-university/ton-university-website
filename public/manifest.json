@@ -1,0 +1,27 @@
+{
+  "name": "TON University - 学习TON区块链开发",
+  "short_name": "TON University",
+  "description": "TON University是学习TON区块链开发的权威平台。从基础概念到高级开发，提供完整的TON学习路径。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["education", "productivity", "utilities"],
+  "lang": "zh-CN",
+  "dir": "ltr"
+}
