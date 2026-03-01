@@ -69,7 +69,7 @@ ton-university/
 │   ├── courses/           # 课程页面
 │   ├── globals.css        # 全局样式
 │   ├── layout.tsx         # 根布局
-│   └── page.tsx           # 主页
+│   └── page.tsx           # 首页
 ├── components/            # React 组件
 │   ├── ui/               # UI 组件库
 │   ├── header.tsx        # 头部导航
